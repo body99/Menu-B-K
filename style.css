@@ -1,0 +1,10 @@
+body 
+{
+	background-image: url('images/darth_stripe.png');
+}
+
+.ban
+{
+	background-repeat: no-repeat;
+	background-attachment: fixed
+}
